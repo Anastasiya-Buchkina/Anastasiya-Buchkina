@@ -10,7 +10,7 @@
 ## ⚙️ Навыки и стек
 
 **Основные навыки:**  
-- BI и визуализация: Apache Superset, Yandex DataLens, Google Sheets, Excel  
+- BI и визуализация: Apache Superset, Yandex DataLens, Power BI, Google Sheets, Excel  
 - SQL и базы данных: PostgreSQL, DBeaver, оконные функции, CTE, Jinja  
 - Python и библиотеки: Pandas, NumPy, SciPy, Matplotlib, Seaborn  
 - Методы анализа: EDA, когортный анализ, A/B-тестирование, проверка гипотез, KPI и бизнес-метрики  
