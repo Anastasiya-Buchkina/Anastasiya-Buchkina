@@ -11,12 +11,12 @@
 
 **Основные навыки:**  
 - BI и визуализация: Apache Superset, Yandex DataLens, Power BI, Google Sheets, Excel  
-- SQL и базы данных: PostgreSQL, DBeaver, оконные функции, CTE, Jinja  
+- SQL и базы данных: PostgreSQL, оконные функции, CTE, Jinja  
 - Python и библиотеки: Pandas, NumPy, SciPy, Matplotlib, Seaborn  
 - Методы анализа: EDA, когортный анализ, A/B-тестирование, проверка гипотез, KPI и бизнес-метрики  
 
 **Дополнительные навыки:**  
-- Инструменты для работы: Jupyter Notebook, Miro  
+- Инструменты для работы: DBeaver, Jupyter Notebook, Miro  
 - Навыки презентации и оформления аналитики: подготовка документации, визуализация результатов, написание отчётов  
 
 ---
